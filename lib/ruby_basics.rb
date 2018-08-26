@@ -6,7 +6,6 @@ division(42,7)
 def assign_variable(value)
   value = value
 end
-assign_variable()
 
 def argue(phrase)
   phrase = phrase
